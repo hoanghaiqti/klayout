@@ -1,0 +1,9 @@
+Hi,
+I want to create a tool that automate a script in DRC on Klayout:
+Input: gds files
+Output: gds files indicating violations
+
+I have written the DRC script, but now I want to automate the task without openning Klayout. Do you know a way to do that?
+
+Thank you!
+Hoang-Hai
